@@ -2,6 +2,8 @@
 
 Following a tutorial from https://www.youtube.com/watch?v=sQN28Jo-nak&mkt_tok=eyJpIjoiTkRFMFpqUmxNR013TUdJMCIsInQiOiJkQURuVnhLUDNBNGhnSEhVK0M0b2MyK3FhXC9lbHROWUNBaW1Nb2JtakpBb1ZXZzBVRnl3MnhOUkNGb0hYbmVCQllvcUVQdjJYaWpDOEJsR3RpUEZFbjR0SkFqZjE2NVNkdVFVbzdHNEFvZHpCemk4MUZSb0ZJUnlzOUN1eTJGY01Xck9OQ0RaU2s4YklBUFZoYUI2RlRBPT0ifQ%3D%3D
 
+https://github.com/aws-samples/aws-serverless-appsync-app
+
 Serverless Bytes | Build a Serverless Weather App with GraphQL, AWS AppSync & AWS Lambda
 
 Learn More about Serverless: 
