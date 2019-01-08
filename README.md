@@ -17,3 +17,7 @@ https://aws.amazon.com/developer/comm...
 
 Join the Serverless conversation on Slack: 
 https://awssamopensource.splashthat.com/
+
+Prerequisites
+1. Signup for a free OpenWeatherApp account here: https://openweathermap.org/appid. Make sure you note the assigned api key.
+2. Provision an AWS Cloud9 instance.
